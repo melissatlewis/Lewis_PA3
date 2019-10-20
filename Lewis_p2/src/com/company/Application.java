@@ -1,3 +1,7 @@
+/* COP3330 Programming Assignment 3 - Problem 2
+   Written by: Melissa Lewis */
+
+
 package com.company;
 
 public class Application {

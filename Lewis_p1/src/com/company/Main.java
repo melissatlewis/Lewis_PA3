@@ -1,3 +1,6 @@
+/* COP3330 Programming Assignment 3 - Problem 1
+   Written by: Melissa Lewis */
+
 package com.company;
 
 import java.util.Scanner;
